@@ -1,5 +1,5 @@
 # COSC-1336
-This are some of the C projects i did at UT-Tyler.
+These are some of the C projects i did at UT-Tyler.
 
 # File Name - Bank.cpp
 * This was a program i wrote as one of my projects in programming fundamentals.
