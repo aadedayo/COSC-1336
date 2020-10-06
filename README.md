@@ -1,5 +1,11 @@
 # COSC-1336
-These are some of the C programs i wrote at UT-Tyler.
+PROGRAMMING FUNDAMENTALS - COSC 1336 introduce the fundamental concepts of procedural programming. Topics covered include data
+types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. The
+course also offers an introduction to the historical and social context of computing and an overview of
+computer science as a discipline. 
+
+
+These are some of the C programs i wrote in this class.
 
 # File Name - Bank.cpp
 * This was a program i wrote as one of my projects in programming fundamentals.
